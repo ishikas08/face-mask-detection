@@ -1,4 +1,5 @@
 # Face Mask Detection (Deep Learning + OpenCV)
+This project detects face mask / no mask from images & videos using a Custom CNN classifier and Haar Cascade face detector.
 Dataset:
 https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
 
