@@ -30,3 +30,7 @@ Works in real-time
 Detects mask with high precision in good lighting
 Annotated video output with bounding boxes
 
+Sample video:
+https://drive.google.com/file/d/12_pyBDN0YARNMOGKxa1G3GopY-bW37vw/view?usp=sharing
+Output video:
+https://drive.google.com/file/d/1wtNLwUeuq0SMf_KLaG1WcMwopq8qiigB/view?usp=sharing
